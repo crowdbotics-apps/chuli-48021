@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 
 # Getting started: Frontend
 
